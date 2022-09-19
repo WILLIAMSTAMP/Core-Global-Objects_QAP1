@@ -1,0 +1,11 @@
+Instructions:
+
+1. run cmd from inside the GlobalObjectsExamples folder or cd to GlobalObjectsExamples from VSCode terminal. 
+
+2. Each Object has multiple code samples seperated by spacing.  Above each snippet there is an down-arrow (↓) showing the user where to uncomment the code to run each instance. 
+
+3. To avoid conflicts you must comment out the previous code snippet before running the new code snippet. 
+
+Each objects or code snippet will print to console and/or write new files to the directory. 
+
+Enjoy

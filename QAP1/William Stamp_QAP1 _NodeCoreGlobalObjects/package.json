@@ -1,0 +1,14 @@
+{
+  "name": "william-stamp---qap1---node-core-global-objects",
+  "version": "1.0.0",
+  "description": "QAP 1 - Core Global Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "William Stamp",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
